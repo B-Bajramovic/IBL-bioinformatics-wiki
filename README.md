@@ -29,7 +29,7 @@ Sphinx is a documentation generator that translates a set of plain text source f
 
 Check [this page](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/) for how to contribute. Here is a brief summary.
 
-Genearly:
+Generally:
 
 1. Fork this repository
 2. Download your forked repository to your local machine. Or open a Codespace.
